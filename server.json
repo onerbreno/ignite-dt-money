@@ -31,6 +31,22 @@
       "type": "outcome",
       "createdAt": "2023-07-17T02:40:43.185Z",
       "id": 4
+    },
+    {
+      "description": "Teste",
+      "price": 1000,
+      "category": "sim",
+      "type": "income",
+      "createdAt": "2023-07-17T14:10:14.386Z",
+      "id": 5
+    },
+    {
+      "description": "teas",
+      "price": 1000,
+      "category": "catae",
+      "type": "income",
+      "createdAt": "2023-07-17T15:13:25.504Z",
+      "id": 6
     }
   ]
 }
